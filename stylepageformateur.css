@@ -1,0 +1,74 @@
+heading
+{
+	float: right;
+	/*display: flex;*/
+
+	/*text-align: right;*/
+}
+
+/*p
+{
+	color: white;
+	background-color: #00A0E0;
+	width: 100px;
+	height: 40px;
+}*/
+
+img
+{
+	/*text-align: center;*/
+}
+
+#bandeau
+{
+	display: flex;
+}
+
+#bandeaugauche
+{
+	background-color: #87BB34;
+	width: 951px;
+	height: 46px;
+}
+
+#bandeaudroit
+{
+	background-color: #44A33D;
+	width: 951px;
+	height: 46px;
+}
+
+#section1
+{
+	display:flex;
+	margin-top: 10px;	
+}
+
+#section2
+{
+	display: flex;
+	/*justify-content: space-between;*/
+}
+
+#bouton1
+{
+	margin-right:10px;
+	margin-bottom: 10px;
+}
+
+article
+{
+	width: 1000px;
+}
+
+aside
+{
+	text-align: right;
+}
+
+#bandeaubas
+{
+	background-color: #87BB34;
+	width: 1903px;
+	height: 134px;
+}
